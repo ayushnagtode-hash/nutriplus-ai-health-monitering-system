@@ -1,0 +1,6 @@
+{
+  "name": "NutriPlus AI",
+  "description": "AI-powered personalized gut-health assistant providing tailored nutrition and probiotic guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
